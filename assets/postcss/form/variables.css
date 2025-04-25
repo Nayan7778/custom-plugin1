@@ -1,0 +1,24 @@
+:root {
+    /* Colors */
+    --color-background: #eef2f7;
+    --color-white: #ffffff;
+    --color-label: #2c3e50;
+    --color-border: #b0bec5;
+    --color-focus: #1e88e5;
+    --color-button-primary: #1565c0;
+    --color-button-hover: #0d47a1;
+    --color-shadow: rgba(0, 0, 0, 0.08);
+    --color-meta-text: #455a64;
+    --color-radio-label: #37474f;
+    --color-meta-border: #cfd8dc;
+  
+    /* Font Family */
+    --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+    /* Font Sizes */
+    --fs-base: 1rem;      
+    --fs-small: 0.95rem;    
+    --fs-label: 1rem;     
+    --fs-button: 1rem;    
+  }
+  
